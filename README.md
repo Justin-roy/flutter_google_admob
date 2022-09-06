@@ -10,7 +10,10 @@ Made With Flutter & Dart
 
 
 ## Screenshots
-![App Screenshot](https://github.com/Justin-roy/pong_game/blob/main/game%20ss/desktop%20screenshots%202.png?raw=true)
+<img width="300" src="https://github.com/Justin-roy/flutter_google_admob/blob/main/ss/1.jpg">  .
+<img width="300" src="https://github.com/Justin-roy/flutter_google_admob/blob/main/ss/2.jpg">  .
+<img width="300" src="https://github.com/Justin-roy/flutter_google_admob/blob/main/ss/3.jpg">  
+
 
 
 
