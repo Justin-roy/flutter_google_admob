@@ -18,7 +18,8 @@ Made With Flutter & Dart
 ## Video
 
 
-Uploading Screenrecording_20220905_165040 (1) (1).mp4…
+https://user-images.githubusercontent.com/69432186/188575316-f2d5ca9e-be6d-428d-a8ae-a0845477447d.mp4
+
 
 
 ## License
